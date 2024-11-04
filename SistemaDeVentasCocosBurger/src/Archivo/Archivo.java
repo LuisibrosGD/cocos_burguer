@@ -1,7 +1,7 @@
 
 package Archivo;
 
-import cocosburguer2.Producto;
+import Modelo.Producto;
 import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
