@@ -8,5 +8,13 @@
  * @author Luis Bizarro
  */
 public class main {
-    
-}
+    public static void main(String[] args) {
+        System.out.println("Hola mundooooooo");
+
+
+        }
+        //ayuda tengo sida KUKILERA J
+}//Hola bizarro, como estas?
+
+// prueba texto xd
+// asfgerervnio
